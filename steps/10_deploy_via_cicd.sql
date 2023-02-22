@@ -9,7 +9,7 @@ Last Updated: 1/9/2023
 
 
 -- ----------------------------------------------------------------------------
--- Step #1: Make change to fahrenheit_to_celsius_udf
+-- Step #1: Make change to fahrenheit_to_celsius_udf 
 -- ----------------------------------------------------------------------------
 
 -- Make the following changes to 05_fahrenheit_to_celsius_udf/app.py
